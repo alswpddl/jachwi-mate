@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "자취 메이트",
+  "short_name": "자취메이트",
+  "description": "자취 요리 레시피, 자취템 체크리스트, 장보기 예산을 한 번에",
+  "lang": "ko",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF9F2",
+  "theme_color": "#F26B3A",
+  "categories": ["food", "lifestyle", "productivity"],
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
